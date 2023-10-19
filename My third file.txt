@@ -1,0 +1,2 @@
+git add My third file.txt
+git status
